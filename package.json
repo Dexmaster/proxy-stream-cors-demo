@@ -1,6 +1,6 @@
 {
   "name": "proxy-stream-cors-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo of proxying data through http-proxy-stream with CORS allowed (Node.js + Express + http-proxy-stream + CORS middleware)",
   "main": "express-app.js",
   "scripts": {
